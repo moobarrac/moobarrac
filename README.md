@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @moobarrac
-- 👀 I’m interested in Javascript
-- 🌱 I’m currently learning ReactJS
+- 👀 I’m interested in ReactJs
+- 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me wahabajibola01@gmail.com
 
