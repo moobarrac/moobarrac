@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on building a web application using React, TypeScript, and Redux<br>🌱 I’m currently learning React Native<br>💬 Ask me about ReactJS<br>⚡ Fun fact: I like bugs🪲🐜
+🔭 I’m currently working with React, TypeScript, and Redux<br>🌱 I’m currently learning React Native<br>💬 Ask me about ReactJS<br>⚡ Fun fact: I like bugs🪲🐜
 
 
 # 💻 Tech Stack:
